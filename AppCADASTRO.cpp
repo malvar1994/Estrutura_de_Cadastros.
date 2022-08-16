@@ -5,7 +5,7 @@
 
 int main (void){
 	
-	ID 		 P[1];
+	ID 	 P[1];
 	REGISTRO Q[1];
 	CADASTRO R[1];
 	
